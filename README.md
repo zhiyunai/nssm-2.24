@@ -14,8 +14,8 @@
 **使用**
 
 1.下载NSSM [download](http://www.nssm.cc/release/nssm-2.24.zip). 2.根据自己的平台，将32/64位nssm.exe文件解压至任意文件夹。 3.cmd定位至nssm.exe所在目录。 4.输入 nssm.exe install，即注册服务的名称。注册服务弹出如下NSSM界面。
-
- ![img](https://images2018.cnblogs.com/blog/12132/201711/12132-20171128224502737-157127473.png)
+ 
+![nssm](http://images2018.cnblogs.com/blog/12132/201711/12132-20171128224502737-157127473.png)
 
 5.Application标签设置：（如果被注册的程序是exe，Arguments不需要填）
 
